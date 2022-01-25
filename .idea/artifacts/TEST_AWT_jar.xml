@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TEST_AWT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TEST_AWT_jar</output-path>
+    <root id="archive" name="TEST_AWT.jar">
+      <element id="module-output" name="TEST_AWT" />
+    </root>
+  </artifact>
+</component>
