@@ -1,5 +1,4 @@
 
-
 public class Main  {
 
     public static MyFrame frame1;
@@ -17,12 +16,14 @@ public class Main  {
                  frame2 = new MyFrame(10);
             }
         };
+
         t1.start();
         t2.start();
+
     }
 
 
-    public static void main (String args[]){
+    public static void main (String[] args){
 
        new Main();
     }
